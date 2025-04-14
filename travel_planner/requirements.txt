@@ -1,0 +1,5 @@
+langgraph>=0.0.30
+langchain>=0.0.345
+langchain-groq>=0.1.1
+pydantic>=2.5.2
+python-dotenv

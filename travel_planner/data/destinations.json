@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Paris",
+    "country": "France",
+    "tags": ["romantic", "culture", "food"],
+    "budget_level": "high",
+    "ideal_duration": [3, 7],
+    "best_seasons": ["spring", "fall"]
+  },
+  {
+    "name": "Bali",
+    "country": "Indonesia",
+    "tags": ["beach", "relaxation", "adventure"],
+    "budget_level": "medium",
+    "ideal_duration": [5, 10],
+    "best_seasons": ["summer", "fall"]
+  }
+]
